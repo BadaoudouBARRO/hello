@@ -1,2 +1,5 @@
 Hello Git
+<<<<<<< HEAD
 Rebase modification
+=======
+>>>>>>> 2beb606 (hello)
