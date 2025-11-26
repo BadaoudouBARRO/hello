@@ -1,7 +1,7 @@
 Hello Git
 Rebase modification
-Take the first commit before the target branch
-Make a rebase on it and replace all pick by smash only the first one
+Take the first commit before the target branch and make rebase, make sure to select all box 
+Make a rebase on it and replace all *pick* by *squash* only the first one
 Then switch to the target branch
 At this moment right click on the target branch then select the method and make sure to uncheck all box
 You can now async change 1
