@@ -1,3 +1,4 @@
 Hello Git
 Rebase modification
 Take the first commit before the target branch
+Make a rebase on it and replace all pick by smash only the first one
